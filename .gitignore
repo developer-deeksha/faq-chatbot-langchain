@@ -1,0 +1,16 @@
+# Secrets - NEVER upload these
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Generated files (rebuild them with the commands in README.md)
+vectorstore/
+data/confluence_pages.json
+
+# Editor / OS
+.vscode/
+.DS_Store

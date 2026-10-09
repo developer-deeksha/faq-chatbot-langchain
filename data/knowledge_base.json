@@ -1,0 +1,308 @@
+{
+  "knowledge_base": [
+    {
+      "category": "MEMBERSHIP & ACCOUNT",
+      "questions": [
+        {
+          "question": "What are the benefits of becoming a Member?",
+          "answer": "Being a member has something for you no matter what you want to do. Get guidance from our experts, access to member-only experiences, special offers, insider info on the latest drops, and free shipping on eligible orders. And it's free to become a member and explore the best of what we offer! Additional benefits include Free Shipping on orders of $50 or more, 60-day Wear Test period, Receiptless Returns, and access to Experts for styling advice."
+        },
+        {
+          "question": "What Member benefits are available at a store?",
+          "answer": "Members get in-store Member-only benefits when they use the App Store Mode. Check product availability in-store and online, but that's not all. Enable notifications on your mobile device to get Member rewards during your visit. Rewards may differ by store."
+        },
+        {
+          "question": "How can I chat with an Expert?",
+          "answer": "Get advice in the App from our experts when you need a second opinion or a little guidance. To connect with a live expert, tap on the profile tab and open your Member Rewards."
+        },
+        {
+          "question": "How Do I Reset My Member Password?",
+          "answer": "To reset your password using our app: 1. Open your app. 2. Tap 'Sign In.' 3. Enter the email address connected to your profile and tap or click 'Continue.' 4. Tap 'Forgot Password?' 5. We'll email you a one-time verification code—use the code to reset your password. Using our website: Follow similar steps, starting by tapping the menu in the upper right corner on mobile devices or clicking 'Sign In' on a computer."
+        },
+        {
+          "question": "What can I do if I have the right password but can't sign in?",
+          "answer": "Follow these troubleshooting steps: For Mobile and Desktop: 1. Clear browser cache. 2. Try to sign in from a different browser. 3. Restart your device. 4. Update the browser to the latest version. 5. Ensure your device's operating system is up to date. 6. If on mobile, turn off WiFi and try to sign in. For Apps: Turn off WiFi and try to sign in, or uninstall the app, restart your device, and re-install the app. If issues persist, use the steps to reset your password."
+        },
+        {
+          "question": "I didn't get the email with my access code—what should I do?",
+          "answer": "If you don't see the email, check your email folders (spam, junk, trash, etc.)."
+        },
+        {
+          "question": "What are the password requirements?",
+          "answer": "Your password must meet these requirements: Contain at least 8 characters, Include 1 capital letter, Include 1 lowercase letter, Include 1 number."
+        },
+        {
+          "question": "HOW DO I BECOME A MEMBER?",
+          "answer": "Becoming a Member is free, fast, and easy. You can join online or when you download the app. To join online, use the JOIN NOW button from our website and fill out the required fields. From any app: 1. Open the app 2. Tap 'JOIN' 3. Fill in the required fields 4. Select 'JOIN US'"
+        }
+      ]
+    },
+    {
+      "category": "PAYMENT OPTIONS",
+      "questions": [
+        {
+          "question": "What Are the Payment Options?",
+          "answer": "We accept the following payment options: Visa, MasterCard, American Express, Discover, Apple Pay, PayPal, Gift cards, Vouchers. Members can store multiple credit or gift cards in their profile for faster checkout."
+        },
+        {
+          "question": "When will I be charged for my order?",
+          "answer": "We'll charge your payment when your order ships. If your order includes multiple shipments, you'll see a charge for each shipment as it goes out. An initial authorization for the entire order amount is placed when you order, which is a temporary hold on funds that will automatically drop off within a few days."
+        },
+        {
+          "question": "Can I pay with a credit card issued outside of the US?",
+          "answer": "Yes, credit cards issued by banks from select countries and regions can be used for your order as long as you have a US shipping address. Choose from available countries in the payment section during checkout."
+        },
+        {
+          "question": "Can I split my payment between multiple credit cards?",
+          "answer": "You can only use one credit/debit card per order, but you can combine a gift card payment with a credit card payment."
+        },
+        {
+          "question": "Can I pay with more than one gift card?",
+          "answer": "Yes, you can use more than one gift card per order."
+        },
+        {
+          "question": "How do I pay with PayPal?",
+          "answer": "When you select PayPal during checkout, you will need to agree to a billing agreement to allow us to bill your PayPal account. The agreement is valid for one hour. If it expires before you complete your order, you can simply agree again. The shipping address on your order must match the shipping address saved to your PayPal account."
+        },
+        {
+          "question": "WHY CAN'T I COMPLETE MY ORDER?",
+          "answer": "Double-check your shipping and payment details (including the billing address) for any missing or incorrect information. Clear your cache and cookies before trying to place the order again. Note that if an item in your bag has sold out or isn't eligible for a promo code you're trying to redeem, you won't be able to complete the order. If you continue to have trouble, give us a call for assistance."
+        },
+        {
+          "question": "HOW DO I USE MY GIFT CARD?",
+          "answer": "To use your gift card on our website: 1. Check the box next to 'Do you have a gift card, product voucher, or promo code?' in the payment step of checkout. 2. Enter your gift card number and PIN, then click 'APPLY.' 3. The amount on your gift card will be deducted from your order total. Gift cards can also be used in person at retail stores."
+        },
+        {
+          "question": "What if the gift card doesn't cover my order total?",
+          "answer": "If your applied gift card doesn't cover the total, you can use any accepted payment method to make up the difference."
+        },
+        {
+          "question": "Can I use more than one gift card on an order?",
+          "answer": "Absolutely, you can use multiple gift cards on the same order."
+        },
+        {
+          "question": "Can I use my gift card at a store?",
+          "answer": "Yes, gift cards can be used in person at retail stores."
+        },
+        {
+          "question": "HOW DO I CHECK MY GIFT CARD BALANCE?",
+          "answer": "You can easily check your balance online. Just enter your gift card number and PIN, and we'll show you the card balance."
+        },
+        {
+          "question": "Where do I find my gift card number and PIN?",
+          "answer": "Both numbers are located on the back of a physical gift card, or in the email for a digital gift card."
+        },
+        {
+          "question": "Can I reload my gift card?",
+          "answer": "You can add value to your gift card at any retail store. Or, you can buy a new one at our website."
+        },
+        {
+          "question": "HOW DO I USE A PROMO CODE?",
+          "answer": "You can apply a promo code either in your bag or at checkout. In your bag: 1. In the 'Summary' box on the right, click 'DO YOU HAVE A PROMO CODE?' at the top of the box. 2. Enter the promo code and select 'APPLY.' At checkout: 1. In the 'PAYMENT' section, click on 'Do you have a gift card, product voucher, or promo code?' 2. Enter the promo code and select 'APPLY.'"
+        },
+        {
+          "question": "How do I get a promo code?",
+          "answer": "The easiest way to receive promo codes is to join as a Member. As a Member, we'll keep you updated on exclusive promo codes and sales."
+        },
+        {
+          "question": "Why isn't my promo code working?",
+          "answer": "Make sure you've entered the promo code correctly and that it hasn't expired. If the code was entered correctly and is still valid but didn't apply to your order, items in your bag may be excluded from the offer. Be sure to check the code's specific terms and conditions for more information."
+        },
+        {
+          "question": "HOW DOES CALCULATE SALES TAX?",
+          "answer": "We apply sales taxes based on where you're shipping your order. You will see the estimated taxes in your bag during checkout, and the exact taxes will be calculated and charged at the time of shipping."
+        },
+        {
+          "question": "HOW DO I USE A PRODUCT VOUCHER?",
+          "answer": "During checkout, check the 'Do you have a gift card, product voucher, or promo code?' box. Then enter your product voucher number to apply it to your order. If the product voucher doesn't cover the order total, you can use any accepted payment method to make up the difference. Product vouchers cannot be redeemed for cash, except where required by law."
+        },
+        {
+          "question": "Can I use a product voucher at a store?",
+          "answer": "No, product vouchers can only be used for purchases on our website."
+        },
+        {
+          "question": "Can I use a product voucher in the App?",
+          "answer": "No, product vouchers can only be used for purchases on our website."
+        },
+        {
+          "question": "How do I check my product voucher balance?",
+          "answer": "You can chat with us to check your product voucher balance."
+        },
+        {
+          "question": "I lost my product voucher number—what do I do?",
+          "answer": "Chat with us. We can resend your product voucher via USPS."
+        },
+        {
+          "question": "Can I transfer my product voucher?",
+          "answer": "No, the name on the product voucher is not transferable."
+        }
+      ]
+    },
+    {
+      "category": "RETURNS",
+      "questions": [
+        {
+          "question": "What Is Return Policy?",
+          "answer": "We give you 60 days to try out your purchase to make sure it works for you. You can return most items for any reason within 60 days of an online order delivery or store purchase (some exceptions apply). Proof of purchase is required to return. Returns are free for Members."
+        },
+        {
+          "question": "How Do I Return My Order?",
+          "answer": "You can return most purchases for any reason within 60 days. Members and guests can return online orders at stores or ship their return back to us. To return at a store, bring your return and proof of purchase. To ship your return, find the item in your order history, open the order, then select 'Start Return' and follow the prompts. Members get a UPS return QR code for label-free returns or can print a pre-paid label. Guests need to print a label and cover shipping costs."
+        },
+        {
+          "question": "Can I return items purchased with a product voucher?",
+          "answer": "Yes, your refund will be applied to the product voucher (you'll receive a refund confirmation email with the product voucher number). If your return also used another form of payment, it will also be refunded."
+        },
+        {
+          "question": "What if I can't print my return shipping label?",
+          "answer": "Members can get a UPS return QR code to use at The UPS Store so they can print a label for you. After submitting the return online, you can access the UPS return code any time on your order details page."
+        },
+        {
+          "question": "Where should I drop off my return?",
+          "answer": "For UPS return code: Take your packaged return to The UPS Store and show your return code. For printed label: You can drop it off at any eligible UPS location, including The UPS Store and UPS Access Points. Guests can use their preferred carrier but will need to cover the shipping costs."
+        },
+        {
+          "question": "Where Is My Refund?",
+          "answer": "Once we receive your return, it usually takes us 1-3 business days to process it and issue a refund. We'll email you when we've initiated the refund. Credit and debit cards, Apple Pay, and PayPal refunds may take up to 10 additional days. Gift cards and vouchers refunds usually process within 24 hours."
+        },
+        {
+          "question": "How do I check the status of my return?",
+          "answer": "You can check your return status at our website. Members can sign in to access their orders page. Guests need to use their order number and email address to access their orders page."
+        },
+        {
+          "question": "Can I exchange my order?",
+          "answer": "You can take your order to any nearby store for an in-store exchange. If the store doesn't have what you want, give us a call to set up the exchange."
+        },
+        {
+          "question": "I placed an order through Instagram, how do I return it?",
+          "answer": "You can use your Instagram order number and the email address you used to place the order to access your order and ship us your return (you'll need to cover shipping costs). You can also return at any store with your order number. Instagram orders will be refunded to a gift card when returned to a store."
+        },
+        {
+          "question": "How do I return a gift I received?",
+          "answer": "Take the item and proof of purchase to a nearby store to get a refund on a gift card. If you're not near a store, you can give us a call for help."
+        },
+        {
+          "question": "How do I return defective or flawed items?",
+          "answer": "If it's been less than 60 days since the purchase, simply choose a return option. If it's been more than 60 days and your item is potentially defective or flawed, please see our warranty information for additional details."
+        },
+        {
+          "question": "HOW DO I EXCHANGE MY ORDER?",
+          "answer": "You can exchange your purchase for any reason within 60 days—just give us a call and we'll make it happen. You can also easily exchange your order or App purchase at a nearby store. Just bring your items to the store of your choice, along with your original form of payment and proof of purchase."
+        },
+        {
+          "question": "WHAT IS THE MEMBER PRICE ADJUSTMENT POLICY?",
+          "answer": "If you purchased an item on our website or in the App, we'll adjust the price you paid to a lower price if an eligible promotion or sale lowers the price of the item within 14 days of your purchase. To qualify, the lower-priced item must be in stock and available on our website and must be exactly the same as the original—meaning the same style number, SKU, color, and size."
+        }
+      ]
+    },
+    {
+      "category": "ORDERS, SHIPPING & DELIVERY",
+      "questions": [
+        {
+          "question": "WHAT ARE THE SHIPPING OPTIONS?",
+          "answer": "We offer No Rush, Standard, Expedited, and Express shipping options. Members get free standard shipping on orders of $50 or more. Shipping costs vary for each option and between Members and guests. We also offer free Same-day Pickup for eligible orders at participating stores."
+        },
+        {
+          "question": "WHERE IS MY ORDER?",
+          "answer": "Members can check order status by signing in to their profile and going to order history, or using the App. Once your order has shipped, you can see which carrier is delivering your packages and track shipments. Guests can access order status information at our website with their order number and email address."
+        },
+        {
+          "question": "Who should I contact about order tracking and delivery?",
+          "answer": "After your order leaves our facility, we won't have any additional information beyond what you see when you track your package(s). If you have delivery-related questions during shipment or want more specific tracking information, please contact the carrier directly."
+        },
+        {
+          "question": "Where do I find my estimated delivery date?",
+          "answer": "You'll see an estimated order delivery date during checkout, on your order status page, and when you track your order. Because this date is an estimate, your order could be delivered shortly before or shortly after this date."
+        },
+        {
+          "question": "Can I change the shipping address on my order?",
+          "answer": "No, our team moves quickly to process and ship your order—we cannot change your delivery address. However, after your order ships, you can contact the carrier directly to see if they can update the address or redirect the package to a pickup facility."
+        },
+        {
+          "question": "Where do I find my tracking number?",
+          "answer": "When your order ships, we'll send you an email with a link to track your order. Use the link to access your shipping status, tracking number, and carrier. You can also access your tracking number through your order history or by tracking your order on our website or app."
+        },
+        {
+          "question": "My order tracking information says 'label created', but it isn't updating—why not?",
+          "answer": "We generate a shipping label as we pack and prepare your order, so you may see a 'label created' order status when you track your order. This means the package hasn't been picked up and scanned by the carrier yet, which can take up to 72 hours. Please hold tight, the carrier will pick up your shipment soon."
+        },
+        {
+          "question": "Why is my order delayed?",
+          "answer": "We do our absolute best to deliver your order on time, but enhanced safety practices and high order volume sometimes slow us down. After an order ships, your package also could be delayed by delivery issues such as severe weather, an incomplete delivery address, or regional service delays."
+        },
+        {
+          "question": "Why was only part of my order delivered?",
+          "answer": "If you order multiple items, you may get multiple deliveries. We'll send you a shipping confirmation email for each shipment, so you'll know exactly what to expect and when to expect it."
+        },
+        {
+          "question": "What should I do if my order is marked as delivered but I didn't receive it?",
+          "answer": "Sometimes carrier tracking information updates prematurely, and your package could be delivered within 24 hours. If it's still before your estimated delivery date, please hold tight, your package is on the way."
+        },
+        {
+          "question": "Can I Buy Online and Pick Up at a Store?",
+          "answer": "Yes, we offer same-day pickup for products available at participating stores. It's free, easy, and fast—items are generally ready for pickup within two hours. You can choose store pickup at checkout, and we'll prepare your order and email you a QR code when it's ready. You can pick up your order in-store or use curbside pickup at participating stores."
+        },
+        {
+          "question": "How do I check-in when I arrive for curbside pickup?",
+          "answer": "When you arrive, tap 'CURBSIDE PICKUP' in your confirmation email. You'll need to let us know what your vehicle looks like (you don't need to enter your license plate number). We'll bring your order to you, check your photo ID, and hand you the order."
+        },
+        {
+          "question": "Where should I park for curbside pickup?",
+          "answer": "Curbside parking is available at the front entrance parking lot. Follow the signage and park in the designated pickup parking."
+        },
+        {
+          "question": "How do I know if my order qualifies for store pickup?",
+          "answer": "You'll be able to select an eligible store at checkout if all of the items in your bag are available at a store near you."
+        },
+        {
+          "question": "I see additional pickup options during checkout, can I pick up somewhere other than a store?",
+          "answer": "Yes, you do have the option to pick up your order at locations other than a store. Those types of orders are shipped via standard delivery, so it takes the usual shipping time before your order is ready for pickup. Please see our pickup point information for additional details. And if you want same-day pickup, make sure you select a store."
+        },
+        {
+          "question": "How long will you hold my order?",
+          "answer": "We'll hold your order for seven days. Come in when it works for you. We'll even send you an email reminder. If you don't pick up your items within seven days, we'll automatically cancel the order and process a refund."
+        },
+        {
+          "question": "What if I don't have my QR code with me?",
+          "answer": "It's not a big deal, you can scan your Member Pass in the App."
+        },
+        {
+          "question": "Can someone else get my order for me?",
+          "answer": "For your protection, we'll only release orders to the person who placed it. But don't worry, we'll hold your items for seven days, giving you plenty of time to swing by."
+        },
+        {
+          "question": "Can I cancel my order if I change my mind?",
+          "answer": "Yes, you can cancel your order within 30 minutes of placing it."
+        },
+        {
+          "question": "CAN I HAVE MY ORDER SHIPPED TO A PICKUP POINT?",
+          "answer": "Yes, we offer the option to have eligible orders shipped to a pickup location. During checkout, select 'Pick Up,' choose your preferred nearby pickup location, and place your order. We'll email you when your order ships and include tracking information. Once it's delivered to the selected location, you'll have seven days to pick up your order."
+        },
+        {
+          "question": "How do I know if my order can be shipped to a pickup point?",
+          "answer": "You'll be able to successfully select a pickup point location at checkout if all of the items in your bag are eligible. If any of your items are not eligible, you'll receive an 'Unavailable' message after selecting a pick up point, and you'll need to select a different shipping option."
+        },
+        {
+          "question": "How long does it take for my order to arrive at a pickup location?",
+          "answer": "Your order will be shipped via standard delivery to the pickup location. Your shipping confirmation email will have the estimated delivery date. If you'd like it sooner, check if your items qualify for same-day pickup at a store."
+        },
+        {
+          "question": "What do I need to pick up my order?",
+          "answer": "Just bring a government-issued ID to pick up your order."
+        },
+        {
+          "question": "How long will my order be held?",
+          "answer": "We'll hold your order for seven days. After seven days, it'll be returned to us, and we'll issue a refund."
+        },
+        {
+          "question": "How Do I Get Free Shipping on Orders?",
+          "answer": "Members get free standard shipping on orders of $50 or more. Every time. If you're not already a Member, join today for free. Sign in to your Member profile when you shop and we'll automatically apply free standard shipping at checkout on every order $50 or more (no promo code required)."
+        },
+        {
+          "question": "Can I Ship My Order Internationally?",
+          "answer": "We currently offer shipping only within the US. We do not offer international shipping, but if you live outside of the US, you can shop in a number of countries or regions globally. We cannot ship to US territories, PO boxes, re-shippers, or package forwarding services."
+        }
+      ]
+    }
+  ]
+}
